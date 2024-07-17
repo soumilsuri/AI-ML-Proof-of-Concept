@@ -1,0 +1,931 @@
+'''
+This is the output of Scraper.py
+early stoped. 
+'''
+Source 1: https://www.coherentmarketinsights.com/privacy-policy
+Title: Privacy Policy - Coherent Market Insights
+
+Text: The General Data Protection Regulation (EU) 2016/679 (GDPR) that applies for all individual citizens of the European Union (EU) and the European Economic Area (EEA), is effective from May 25, 2018, and contains provisions and requirements related to the processing of personal data of individuals inside the EEA. Coherent Market Insights has made changes in its ‘privacy policy’ in line with these new standards that apply to you if you are a user inside the EEA and these are as follows:
+Text: Use of Anonymous Information or Data
+Text: The use of anonymous information or data by the Company, if any, is only to assess website traffic, to display user-preferred content, or for site administration purposes. Anonymous IP addresses may also be used to help analyze issues with the Company server/s.
+Text: Use of Cookies
+Text: Sharing and Disclosure of Personal Data
+Text: User Rights With Respect To Personal Data
+Text: Contact Us
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us :
+Text: Secure Payment By :
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability and Reputation :
+Text: For Business Enquiry :
+Text: 
+
+ United Kingdom
+Text: 
+
+ United States
+Text: 
+
+ Australia
+Text: 
+
+ India
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Reliability and reputation
+Text: Secure Payments By:
+Text: 9001:2015
+Text: 27001:2022
+Text: Connect With Us
+
+
+Source 2: https://www.coherentmarketinsights.com/
+Title: Coherent Market Insights: Market Research and B2B Consulting
+Text: We offer the most reliable and precise data through our proprietary 360 degree research methodology.
+Text: Intranasal Drug Delivery Devices Market, By Dosage Form (Nasal Spray, Nasal Drop...View more 
+Text: Medical Tricorder Market, By Type (USB Camera, Fiber Optic Camera, Wireless, Cor...View more 
+Text: Pet Sitting Market, By Pet Type (Dogs, Cats, and Others), By Service Type (Care ...View more 
+Text: Medical Thermometer Market, By Product Type (Mercury-based Thermometers and Merc...View more 
+Text: Animal Intestinal Health Market, By Animal Type (Production Animal, Companion An...View more 
+Text: Genetic Toxicology Testing Market, By Type (In Vitro and In Vivo), By Product (R...View more 
+Text: Cyclamate Market, By Type (Cyclamic Acid, Sodium Cyclamate, and Calcium Cyclamat...View more 
+Text: Guaiacwood Oil Market, By Type (Blends, Pure, and Others), By Application (Aroma...View more 
+Text: Sulfamic Acid Market, By Application (Industrial Equipment & Domestic Appliances...View more 
+Text: Activated Carbon Market, By Product Type (Powder, Granular, and Others), By Raw ...View more 
+Text: Sodium Benzoate Market, By Form (Granule, Powder, Others), By Application (Food ...View more 
+Text: High Performance Seals Market, By Material Type (Metal seals, Polyurethane seals...View more 
+Text: Industrial Radiography Market, By Imaging Technique (Digital Radiography and Fil...View more 
+Text: Identity Analytics Market, By Component (Solutions and Services), By Deployment ...View more 
+Text: Procurement As a Service Market, By Component (Strategic Sourcing, Spend Managem...View more 
+Text: Real Estate Software Market, By Type (Customer Relationship Management Software,...View more 
+Text: Data Integration Market, By Component (Tools and Services), By Deployment (Cloud...View more 
+Text: 3D Animation Software Market, By Technique (3D Modeling, Motion Graphics, 3D Ren...View more 
+Text: Solar Thermal Collectors Market, By Type (Concentrating, Non-Concentrating, Flat...View more 
+Text: Ocean Power Market, By Type (Tidal Barrages, Tidal Stream, Wave Energy, and Othe...View more 
+Text: Nuclear Waste Management Market, By Waste Type (Low-Level Radioactive Waste, Int...View more 
+Text: Bovine Gelatin Market, By Form (Powder, Capsule & Tablets, Others), By Applicati...View more 
+Text: Solar PV Panels Market, By Grid Type (On Grid, Off Grid), By Technology (Thin Fi...View more 
+Text: Surface Mining Market, By Type (Strip Mining, Terrace Mining, Open-Pit Mining, O...View more 
+Text: Created billion dollars of revenue impact on thousands of clients.
+Text: I have looked at the file and it appears to have everything that we need to have a good understanding of our market.
+Text: The report was very insightful and interesting. Thank you for your services. They are greatly appreciated.
+Text: Consulting Projects  Still Now
+Text: Analysts and Contract Consultants 
+Text: Clients Worldwide
+Text: For latest market insight related to Healthcare, Chemicals and Materials, ICT, Automation, Semiconductor & Electronics, Aerospace and Defense, Telecom and IT, Consumer Goods and Retail, Energy, Food and Beverages industry, visit.
+Text: Incisive insights cutting across sectors, categories, and geographical horizons
+Text: On an average, 73% of our existing clients have resubscribed to our services
+Text: Proven expertise of delivering optimized solutions
+Text: The go-to research solution provider for complex, hard-to-find insights
+Text: Contact Us
+Text: For Business Enquiry :
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+		 
+		  
+Text: 
+Text: Sales Office (U.S.) :
+Text: Coherent Market Insights Pvt Ltd,
+533 Airport Boulevard, Suite 400, Burlingame, CA 94010, United States
+Text: 
+Text: Asia Pacific Intelligence Center (India)
+Text: Coherent Market Insights Pvt Ltd, 203, 2nd Floor, Bremen Business Center, Aundh, Pune, Maharashtra 411007, India.
+Text: 
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us
+Text: Secure Payments By
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability & Reputation
+
+			 
+
+
+Source 3: https://www.coherentmarketinsights.com/market-insight/monoethylene-glycol-market-4930
+Title: Monoethylene Glycol Market - Share, Size and Industry Analysis
+Text: Healthcare
+Text: Chemical and Materials
+Text: ICT, Automation, Semiconductor...
+Text: Other
+Text: Global monoethylene glycol market is estimated to be valued at US$ 38.84 Billion by the end of 2030,  and is expected to exhibit a CAGR of 4.7% during the forecast period (2023-2030).
+Text: Global Monoethylene Glycol  Market: Growth Drivers
+Text: Global Monoethylene Glycol  Market: Restraints
+Text: Figure 1. Global Monoethylene Glycol Market Share (%) , By Region, in 2022
+Text: 
+Text: To learn more about this report, request a free sample copy 
+Text: Global Monoethylene Glycol  Market: Opportunities
+Text: Global Monoethylene Glycol  Market: Trends
+Text: Monoethylene Glycol Market Report Coverage
+Text: Reliance Industries Limited, Saudi Basic Industries Corporation, BASF SE, India Glycols Limited, LyondellBasell Industries Holdings B.V., Chemtex Speciality Limited, Royal Dutch Shell PLC, Nouryon, Mitsubishi Chemical Corporation, and Eastman Chemical Company.
+Text: Global Monoethylene Glycol Market - Impact of Coronavirus (COVID-19) Pandemic
+Text: The COVID-19 had a negative influence on the global monoethylene glycol market. China is the largest supplier and user of mono-ethylene glycol in Asia-Pacific, owing to the country's expanding population and urbanization, which has resulted in high demand from the textile industry. However, the supply chain has been disrupted due to the COVID-19-triggered lockdown, which hampered the global monoethylene glycol market growth. In addition, the pandemic's spread has a detrimental effect on the majority of people's overall economic circumstances.  Consumer demand has fallen, and consumers are concentrating more on reducing their budgets' non-essential spending.
+Text: Global Monoethylene Glycol  Market: Recent Developments
+Text: Asia-Pacific region held dominant position in the global monoethylene glycol market in 2022, accounting for 78% share in terms of volume, followed by and Europe and Asia Pacific respectively.  
+Text: Figure 2. Global Monoethylene Glycol Market, By Product Type, in 2022
+Text: 
+Text: To learn more about this report, request a free sample copy 
+Text: On the basis of end-use industry, the textile segment dominated the global monoethylene glycol market in 2022, accounting for 49.4% of market revenue share, followed by plastic & packaging, automotive, and others owing to the rising adoption of monoethylene glycol due to its versatility as a chemical that is compatible with water and various organic components.
+Text: Global Monoethylene Glycol Market: Key Companies
+Text: Key Companies are Reliance Industries Limited, Saudi Basic Industries Corporation, BASF SE, India Glycols Limited, LyondellBasell Industries Holdings B.V., Chemtex Speciality Limited, Royal Dutch Shell PLC, Nouryon, Mitsubishi Chemical Corporation, and Eastman Chemical Company.
+Text: *Definition: Monoethylene glycol can be found in polyester fibers and films. It is one of the greatest products for making polyester fibers and Polyethylene Terephthalate (PET) films because of its resilience and hydrophobic qualities. Monoethylene glycol is used in various industries including construction, automotive, consumer goods, textiles, medicines, and chemical processing. Monoethylene glycol production has increased in response to the growing demand for polyester fiber in the textile industry. The global monoethylene glycol market growth is predicted to be driven by the increasing use of polyethylene terephthalate (PET) in major consumer goods products such as bottles and food containers. People's changing lifestyles and urbanization in major nations such as China, India, Brazil, and Mexico are likely to drive the demand for monoethylene glycol.
+Text: 
+            Monoethylene Glycol Market Report Snapshots        
+Text: Frequently Asked Questions
+Text: View Our Licence Options
+Text: Need a Custom Report?
+Text: 
+Text: We can customize every report - free of charge - including purchasing stand-alone sections or country-level reports
+
+Text:  	Want to Buy a Report but have a Limited Budget?  
+Text: 
+We help clients to procure the report or sections of the report at their budgeted price.
+Kindly click on the below to avail
+
+Text: Press Release
+Text: Monoethylene Glycol Market To Surpass US$  38.84 Bn By 2030
+Text: Reliability and Reputation
+Text: 9001:2015
+Text: 27001:2022
+Text: Joining thousands of companies around the world committed to making the Excellent Business Solutions.
+Text: Contact Us
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us :
+Text: Secure Payment By :
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability and Reputation :
+Text: For Business Enquiry :
+Text: 
+
+ United Kingdom
+Text: 
+
+ United States
+Text: 
+
+ Australia
+Text: 
+
+ India
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Reliability and reputation
+Text: Secure Payments By:
+Text: Connect with us
+Table 1:
+
+Base Year:, 2022, US$ 26.98 Bn
+Historical Data for:, 2018 to 2021, 2023 to 2030
+Forecast Period 2023 to 2030 CAGR:, 4.7%, US$ 38.84 Bn
+Geographies covered:, North America: U.S. and Canada
+Latin America: Brazil, Argentina, Mexico, and Rest of Latin America
+Europe: Germany, U.K., Spain, France, Italy, Russia, and Rest of Europe
+Asia Pacific: China, India, Japan, Australia, South Korea, ASEAN, and Rest of Asia Pacific
+Middle East: GCC, Israel, and Rest of Middle East
+Africa: North Africa, Central Africa, South Africa, and Rest of Africa
+Segments covered:, By Production Process: Gas-based, Naphtha-based, Coal-based, Methane-to-Olefins, Bio-based
+By Application: Polyester Fiber, Polyethylene Terephthalate (PET) Resins, Polyethylene Terephthalate (PET) Film, Antifreeze, Others
+By End-use Industry: Textile, Plastic & Packaging, Automotive, Others
+Companies covered:, Reliance Industries Limited, Saudi Basic Industries Corporation, BASF SE, India Glycols Limited, LyondellBasell Industries Holdings B.V., Chemtex Speciality Limited, Royal Dutch Shell PLC, Nouryon, Mitsubishi Chemical Corporation, and Eastman Chemical Company.
+Growth Drivers:, Increasing demand for monoethylene glycol in the manufacturing of polyester fibers, and antifreeze
+Rising demand for monoethylene glycol for polyethylene terephthalate (PET) packaging in various commercial and industrial end-use applications
+Restraints & Challenges:, Fluctuation in raw material costs and the availability of crude oil and other feedstock
+
+
+
+Source 4: https://www.coherentmarketinsights.com/aboutus
+Title: About Us - Coherent Market Insights
+Text: Coherent Market Insights is a global market intelligence and consulting organization, focused on assisting our plethora of clients achieve transformational growth by helping them make critical business decisions. We are headquartered in India, having office at global financial capital in the U.S. and sales consultants in United Kingdom and Australia. Our client base includes players from across various business verticals in over 32 countries worldwide.
+Text: We are uniquely positioned to help businesses around the globe deliver practical and lasting results through various recommendations about operational improvements, technologies, emerging market trends and new working methods. We pride ourselves in catering to clients across the length and width of the horizon, from Fortune 500 enlisted companies, to not-for-profit organization, and start-ups looking to establish a foothold in the market. We meticulously study emerging trends across various industries at both the global and regional levels to identify new opportunities for our clientele.
+Text: Our global team of over 170+ analysts and consultants covers nodes at a country level, to provide market intelligence and insights at country level. This acts as our strength is providing global perspective of the market. Our team is of the most vital cog in our robust machinery that gives us the ability to deliver independent insight relying on our cognitive defusion training module. This allows for an objective and unbiased assessment of the market. Coherent Market Insights offers syndicated market intelligence reports, customized research solutions, and consulting services.
+Text: We pride ourselves in catering to clients across the length and width of the horizon, from Fortune 500 enlisted companies, to startups looking to establish a foothold in the market. Our close interactions with our clients offer our insights about their unique requirements that enable us to provide them with highly specify and deeply customized solutions catered for their business needs. Our team of highly experienced and dedicated analysts constantly strive towards providing our clients with inputs based on our accurate deciphering of the market pulse that help with key strategic decision making
+Text: We excel in offering unmatched actionable market intelligence across various industry verticals, including chemicals, healthcare, and food & beverages, to name a few. We implement holistic market research methodology in order to result in the best possible market research reports across various industries globally. With deep expertise across various industries-no matter how large or small, how complex or unique, we help our clients achieve better outcomes with uniquely designed and highly customized solutions. Our coverage includes insights that help our clients ensure sustained growth in developed markets and also key inputs to help them tap into emerging markets and exploit the plethora of opportunities posed therein.
+Text: Contact Us
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us :
+Text: Secure Payment By :
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability and Reputation :
+Text: For Business Enquiry :
+Text: 
+
+ United Kingdom
+Text: 
+
+ United States
+Text: 
+
+ Australia
+Text: 
+
+ India
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Reliability and reputation
+Text: Secure Payments By:
+Text: 9001:2015
+Text: 27001:2022
+Text: Connect With Us
+
+
+Source 5: https://www.coherentmarketinsights.com/phasexs/
+Title: Phase-XS - Coherent Market Insights
+Text: A robust clinical trials and commercial analytics database- PHASE-XS is a proprietary database of Coherent Market Insights, which offers in-depth information about late-stage (Phase I to IV) biologics and biosimilar candidates. Developed by our team of consultants and industry experts, PHASE-XS aims to shed light on potential developments on such candidates.
+Text: One of the key aspects of PHASE-XS is offering easy understanding of, not just freely accessible clinical information (unlike provided by competitors), but also providing insights through a vast range of parameters outlined in the database. These include over 35+ parameters which are profiled for each clinical trial. Phase-XS combines clinical and analytical insights on pipeline products under one umbrella.
+Text: A strong end point and trial design is critical for the success of late-stage biologics. PHASE-XS offers clinically essential information on pipeline products for the researchers with substantial R&D investments.
+Text: PHASE-XS provides key market related insights that can impact the respective therapeutic segments in terms of future competition, dynamics and trends.
+Text: Knowing your competitor activities and new product developments is an integral part of strategic discussions. PHASE-XS helps you know your competitor’s strengths, weakness, and potential with scrupulous insights from our team of industry experts.
+Text: User-friendly representation and deliverable is what we strive for our PHASE-XS subscribers.
+Coherent Market Insights offers this data in the format that enables a user to easily perform analytics/analysis and get the desired outcomes in just few seconds. 
+Text: Kindly subscribe for our latest news & articles.
+Text: To request for sample data or to subscribe, kindly fill this form.
+Text: Contact Us
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us :
+Text: Secure Payment By :
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability and Reputation :
+Text: For Business Enquiry :
+Text: 
+
+ United Kingdom
+Text: 
+
+ United States
+Text: 
+
+ Australia
+Text: 
+
+ India
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Reliability and reputation
+Text: Secure Payments By:
+Text: 9001:2015
+Text: 27001:2022
+Text: Connect with us
+
+
+Source 6: https://www.coherentmarketinsights.com/trusted-by
+Title: All Our Trusted Clients | Coherent Market Insights
+Text: Contact Us
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us :
+Text: Secure Payment By :
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability and Reputation :
+Text: For Business Enquiry :
+Text: 
+
+ United Kingdom
+Text: 
+
+ United States
+Text: 
+
+ Australia
+Text: 
+
+ India
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Reliability and reputation
+Text: Secure Payments By:
+Text: 9001:2015
+Text: 27001:2022
+Text: Connect With Us
+
+
+Source 7: https://www.coherentmarketinsights.com/testimonials
+Title: Testimonials | Coherent Market Insights
+Text: 
+Text: Thank you for the data shared by your team with us. This is very helpful for us. Your timely service and data is much appreciated and valued. Thanks again.
+Text: 
+Text: President and CEO 
+Text: Teijin Limited
+Text: 
+Text: Thank you CMI! You have an excellent research team and your work is much appreciated. Well done! 
+Text: 
+Text: Founder
+Text: Omega Foods
+Text: 
+Text: Thank you for this interesting data. I can tell from this that your services are really great. Keep up the good work and cheers!
+Text: 
+Text: Managing Partner
+Text: Larx Corporate Finance Partners
+Text: 
+Text: Thank you for the report! It was great support from you guys! Cheers
+Text: 
+Text: PMSD Project Manager, Professional Monitor Solutions Development Division
+Text: ViewSonic, Taiwan
+Text: 
+Text: Thank you for the quick and clear feedback. I am happy to share your work with my colleagues. It is very useful. Your service is much appreciated!
+Text: 
+Text: Director Global Market Access & Scientific Affairs
+Text: Bencard Allergie GmbH
+Text: 
+Text: Thank you for your comprehensive feedback. It is very helpful and useful. Thank you! CMI is extremely professional.
+Text: 
+Text: General Manager of Commercial Washing Machine Division
+Text: Haier 
+Text: 
+Text: Thank you again for submitting the requested data to us within a short period of time, we really appreciate your efforts. Great work CMI!
+Text: 
+Text: Business Analyst
+Text: ARTHUR D. LITTLE
+Text: 
+Text: Your data is interesting and helpful. The study conducted by you can be used by us. Thanks for the efforts and services!
+Text: 
+Text: Product Management Commercial
+Text: Koenig & Bauer Digital & Webfed 
+Text: 
+Text: Thank you for the accurate and useful data and services. It is very well done.
+Text: 
+Text: Associate Director
+Text: BCG
+Text: 
+Text: The service and data quality is great. We appreciate the quality and I have already shared my opinion in the team.I think our data management team will also look for opportunities to work with you.
+Text: 
+Text: Business Strategy, Pharmceutical Division
+Text: Otsuka Pharmaceutical Co., Ltd. 
+Text: 
+Text: Thank you for your prompt services and quick response. This is very much appreciated. I have reviewed the file and the data looks great.
+Text: 
+Text: Director of Overseas Marketing
+Text: TOKYO WELD Co., Ltd.
+Text: 
+Text: I really appreciate the extra effort by you and your team! This is an excellent effort by CMI. Kudos to your team.
+Text: 
+Text: Manager, Marketing Programs | Strategy, Research & Intelligence
+Text: HP Specialty Printing and Technology Solutions 
+Text: 
+Text: The datasets are great and the services provided by you are also appreciated greatly. Would love to see what else you can offer.
+Text: 
+Text: Consultant
+Text: SIGMAXYZ Group
+Text: 
+Text: Thank you for providing this information. Your data looks excellent. Your services are also greatly appreciated. Cheers CMI!
+Text: 
+Text: Analyst
+Text: Industria Partners
+Text: 
+Text: That is great data. We understand the challenge in securing accurate manufacturing information.The market competitive landscape information is really appreciated, and we appreciate your team extending themselves to provide us with this information which will complement the well-done research you submitted to us.
+Text: 
+Text: CEO
+Text: Neuralight HD, LLC
+Text: 
+Text: Thanks for your services.  Good information! As a Brand Manager for TENA Skincare products, I am most interested in the data you have for the Wipes and Creams. Great work by CMI!
+Text: 
+Text: Global Brand Innovation Manager
+Text: TENA Skincare
+Text: 
+Text: Appreciate your kind support, this does help us to conclude and demonstrate the value of the service from CMI. Kudos to the team for prompt support and help. Cheers to CMI.
+Text: 
+Text: Partner
+Text: Maveron LLC
+Text: 
+Text: Thank you. I am pleased with the deliverable provided by your team. It looks concise and to the point. I must say your service is great. Kudos to you and your team.
+Text: 
+Text: Neurology Product Manager
+Text: NIHON KOHDEN
+Text: 
+Text: Thanks for all your assistance in working on this data. Please send my regards to your team as well. The efforts taken are greatly appreciated and valued. Thanks to the team again. 
+Text: 
+Text: Manager
+Text: Geotechnical Information Solutions (GTIS)
+Text: 
+Text: Your data has been reviewed. The intellegence in the report looks more strategic and aligned with our expectations. Thanks a lot for your services and appreciate all your efforts. 
+Text: 
+Text: Chief Information Officer
+Text: Mega Motor
+Text: 
+Text: We would like to tell you that your response so valuable and we really appreciate it. Good going CMI! Timely delivery is what makes your efforts truly unmatched.
+Text: 
+Text: International Business Specialist
+Text: Ajinomoto Co., Inc.
+Text: 
+Text: Thanks for working with us to prepare and deliver a custom report to our leadership team. We very much appreciate the partnership and dedication to our requirements and tight timeline. Very much looking forward to working with everyone on similar projects in the future!
+Text: 
+Text: Business Analyst – OTC
+Text: Taro Pharmaceutical Industries Ltd.
+Text: 
+Text: Thanks a lot for the revised report which gives us worthful insights. Much appreciated.
+Text: It was a long journey for both of us, but finally we succeeded 
+Text:  
+Text: 
+Text: Director Global Market Access & Scientific Affairs
+Text: Allergy Therapeutics
+Text: 
+Text: Thank you very much for the impressive information you have shared.
+Text: 
+Text: Business consultant
+Text: Lorenz & Partners
+Text: 
+Text: First of all, I am satisfied with this content. It is what I was looking for. Thank you very much for your services. Much appreciated.
+Text: 
+Text: NEW BUISINESS DEVEROPMENT DEPARTMENT
+Text: SEKISUI CHEMICAL CO.,LTD
+Text: 
+Text: I am confident that this survey is very helpful in developing this device.We appreciate again your prompt and kind support!We look forward to working with you again soon.
+Text: 
+Text: Manager, Research and Development
+Text: Senju USA, Inc
+Text: 
+Text: Many thanks for sharing the files! Really insightful & valuable data included.
+Text: 
+Text: Co-founder & COO
+Text: NTZNS
+Text: 
+Text: Thank you for sharing. Interesting report
+Text: 
+Text: Head of Sales and Marketing
+Text: Nutronco
+Text: 
+Text: The data provided by your team and organization looks super insightful. Your help and services are much appreciated. Looking forward to working with you again.
+Text: 
+Text: Sr. Manager, Market & Competitive Intelligence
+Text: Epsilon
+Text: 
+Text: The report shared by CMI is good, for what my opinion is worth. Thanks a ton! It is very helpful for my team and organization.
+Text: 
+Text: Market Intelligence Manager
+Text:  Sartorius
+Text: 
+Text: Thank you for the information. This is very helpful for us.
+Text: 
+Text: Manager, Products & Services 
+Text: Teijin Limited
+Text: 
+Text: Thank you very much for sharing with me this very impressive data. The services are top notch. Kudos to Coherent Market Insights. You guys are doing a great job.
+Text: 
+Text: Owner
+Text: Yomik Ltd
+Text: 
+Text: Once I bought a report from you, for Atopic Dermatitis, and it was very good.
+Text: 
+Text: Presidente e CEO
+Text: Farmacore Biotecnologia Ltda
+Text: 
+Text: I have looked at the file and it appears to have everything that we need to have a good understanding of our market.
+Text: 
+Text: Managing Director
+Text: Baxter
+Text: 
+Text: Thank you very much for your detailed comments that help to understand the methodology and scope. Thanks again for your support and explanatory efforts.
+Text:  
+Text: 
+Text: Market Development Manager
+Text: INEOS Styrolution Europe GmbH
+Text: 
+Text: Thank you for the detailed responses. It is greatly appreciated. Regarding your methodology and sources, I find those to be of high-quality and they satisfy my needs.
+Text: 
+Text: Strategy Consulting Senior Associate
+Text: PWC
+Text: 
+Text: We were able to get very useful information. It looks impressive and insightful.
+Text: 
+Text: Planning & Development Department
+Text: KURARAY NORITAKE DENTAL Inc.
+Text: 
+Text: The data looks nice. Thank you for your service.
+Text: 
+Text: Chief Financial Officer
+Text: Aeon Biopharma
+Text: 
+Text: Thank you for the prompt responses, very helpful and makes sense!
+Text: 
+Text: Business Strategy Associate
+Text: Crinetics Pharmaceuticals
+Text: 
+Text: I’m looking forward to cooperating with you regarding to another market as well.
+Text: Again, thank you for your kind proposal and action. Thank you very much for your clear explanation.
+Text: 
+Text: Global Marketing Dept.
+Text: KANSAI PAINT CO.,LTD
+Text: 
+Text:  Your company seems to do a very good work. Your efforts and services are appreciated.
+Text: 
+Text: President
+Text: WABAUDIO
+Text: 
+Text: I am more than satisfied with your service. Awesome work team CMI. Greatly appreciate your support and wish you luck.
+Text: 
+Text: Senior Director , International Market Development
+Text: CanSinoBIO
+Text: 
+Text: You have worked with Omega Foods and specifically Dean Potratz in the past and have provided some excellent information for us – thank you.
+Text: 
+Text:  President | CEO
+Text: OMEGA FOODS   
+Text: 
+Text: In general the information is great as well as the criss-cross analysis gave us a deep insight!
+Text: 
+Text: Product  manager   Medical bei
+Text:  Beurer GmbH
+Text: 
+Text: I wish to congratulate you and your team for the marvelous work effected in putting this report together. Same was clear, insightful and provided an overview of the global market in the defined region. The information derived from this report have been very helpful in orienting management towards taking some crucial decisions.
+Text: 
+Text: Business development and project manager
+Text: Agricultural Solution for Africa
+Text: 
+Text: Thank you very much for your email. I overviewed the presentation. It is very informative. Your services very useful and would love to thank the CMI team.
+Text:  
+Text: 
+Text: Director
+Text: Space and Sensing System 
+Text: 
+Text: I have went through the documents already, and it is a very excellent and informative report. Thank you team and will keep in touch for further services.
+Text: 
+Text: Marketing and Content Specialist
+Text: Momentive Performance Materials GmbH 
+Text: 
+Text: I would like to thank the CMI team for successfully completing and sharing the interims with us in a timely manner. We have gone through the final interim with updated remarks. As of now, we are content with the quality of the data shared.
+Text: 
+Text: Industrial Designer
+Text: HCL Technologies 
+Text: 
+Text: Your service is precise and rich and its price is appropriate for people that will use it for business purpose
+Text: 
+Text: European Affairs Senior Officer
+Text: CEA Tech Grenoble
+Text: 
+Text: I appreciate your help and information up to this point. Thanks again for your help and maybe you can help us in the future.
+Text: 
+Text: Product Manager
+Text: JTEKT Automotive North America 
+Text: 
+Text: Thank you for your special efforts. Coherent team has done a good job so far and that’s exactly why we would like to engage with you further into new projects. I am confident you will keep up the good work and continue to delight us with your work.
+Text: 
+Text: Manager
+Text: Export & OBL, Eucare Pharmaceuitcals Pvt LTd 
+Text: 
+Text: Thank you, I was able to receive the attachment. Thank you for the quick turn-around, appreciate it!
+Text: 
+Text: Sr. Strategic Planning Analyst
+Text: NuVasive, Inc 
+Text: 
+Text: Thank you very much Raj, looks like a very solid report. Thanks again for this. Glad your services were to the point.
+Text: 
+Text: Medical Director
+Text: Angioline medical device LLC 
+Text: 
+Text: I am impressed with your service and will remember that should I need data I will come to you.
+Text: Thanks and I will keep it on file for future projects.
+Text: 
+Text: Head of Category FHT
+Text: IFFCO Group
+Text: 
+Text: We have been happy with the hyaluronic acid market assessment provided by Coherent Market Insights. You guys did a great job. Kudos!
+Text: 
+Text: Prof. Sports Medicine Physician Clinical Director
+Text: Melbourne Stem Cell Centre, Charles Sturt University School of Biomedical Science, U.K.
+Text: 
+Text: CMI’s report has excellent contents. Your services are greatly appreciated. Thank you for everything and good luck.
+Text: 
+Text: Senior Director
+Text: Samsung Electronics America
+Text: 
+Text: I like the Global Algorithmic Trading Market report, and must congratulate you for the initiative as I’ve not come across such detailed analysis lately.
+Text: 
+Text: Vice President
+Text: FlexTrade
+Text: 
+Text: The report looks to have a lot of great information. Greatly appreciate the team and their efforts.
+Text: 
+Text: AVP, National Business Development
+Text: TCF Inventory Finance
+Text: 
+Text: It is interesting, and I appreciate your knowledge on the said topic. Loved your work! Thanks for your services.
+Text: 
+Text: Technical Provider
+Text: Omega Protein
+Text: 
+Text: Thank you for the report. It is very thorough and well presented. The information looks promising.
+Text: 
+Text: Sales
+Text: Thinknum Alternative Data
+Text: 
+Text: Previously, the report about hydrogenated polyisobutene that I bought from you was really considerable. This time, I would like to ask you for market reports about isoparaffin for cosmetics.
+Text: 
+Text: Principal Researcher/Advanced Technology Research Team
+Text: Hanwha Total Petrochemical Co., Ltd.
+Text: 
+Text: Thanks for your email. Congratulations on your excellent work. Keep offering your great services!
+Text: 
+Text: Manager
+Text: OSTINET DESIGN
+Text: 
+Text: I'm very impressed by your report. It contains a large amount of valuable information about our discussed subject.
+Text: 
+Text: R&D Engineer
+Text: ICL Group
+Text: 
+Text: I think we are happy with the report you shared – it was very helpful. There is a high level methodology overview in your report and would love source citations and some methodology overview in key parts of the report. 
+Text: 
+Text: Partner
+Text: Deloitte Consulting LLP
+Text: 
+Text: Thank you for sharing a very good report. Your services are valued and helpful!
+Text: 
+Text: Market Intelligence
+Text: Corteva
+Text: 
+Text: I did view the market study and as a recruiter, found it interesting. Thanks guys! You did a good job.
+Text: 
+Text: Principal Talent Acquisition Partner, Executive Search
+Text:  PerkinElmer 
+Text: 
+Text: "We asked for the global PMD Market Report and the relationship with Coherent Market insights is productive and professional. They even personalized parts of the report according to our specific needs. They understood our needs"
+Text: 
+Text: Passionate Applied Math PhD candidate
+Text: 
+Text: 
+Text: The report was very insightful and interesting. Thank you for your services. They are greatly appreciated.
+Text: 
+Text: Consultant
+Text: Deloitte Consulting LLP
+Text: 
+Text: What has been presented so far looks good! Keep up the good work and have a great day. Thank you for the documents. They look very promising and I will start reading right away.
+Text: 
+Text: Business Development
+Text: TesTailor
+Text: 
+Text: Thanks for your email. The report is impressive. You all did a great job. Thanks again for your prompt services.
+Text: 
+Text: Finance Vertical 
+Text: Nielsen 
+Text: 
+Text: Your report is great, very detail. Thank you very much to the CMI team. Your services are very helpful and valued.
+Text: 
+Text: Sales Manager
+Text: Sun Shing holdings limited
+Text: 
+Text: I appreciate sharing the document and excel sheet. Thank you so much for your insights and research & the report. Thanks to your team. Even though I was requesting many clarifications and details continuously, you tried to understand with patience, and called me many times regarding this report. I thank you for the job you did. Really you all did well.
+Text: 
+Text: Managing Director
+Text: QuantumSys Technologies Pte Ltd
+Text: 
+Text: Thank you for your support during this search process.  I must say, you are one of the better market research firms I have come across.  Your process is very well explained.
+Text: 
+Text: Market Research Analyst
+Text: Terumo Medical Corporation
+Text: 
+Text: The report gave very good info by sector – quite detailed I would say. This is really impressive!
+Text: 
+Text: Operations Executive
+Text: Future Cosmetics CC
+Text: 
+Text: I appreciate your quick and comprehensive answer. Your study/report and services is exactly what I have been looking for.
+Text: 
+Text: Intern
+Text: DoKaSch GmbH
+Text: 
+Text: I am pleased to say that the data matches ours in market understanding. Thank you and please pass on my thanks to the research team also.
+Text: 
+Text: Senior Marketing Manager
+Text: FirstKind
+Text: 
+Text: Thanks Coherent Market Insights. I appreciate all the help and your valued services.
+Text: 
+Text: CEO & Product Director
+Text: Ignite Procurement
+Text: 
+Text: Thank you so much for this report, it is really useful to us as the first serious analysis of the portable digital microscope market. We appreciate your flexibility and understanding of our financial position and remain open to a conversation about our experiences in this market if that is helpful to you.
+Text: 
+Text: Founder
+Text: ioLight Limited
+Text: 
+Text: Thank you so much.  This looks to be very comprehensive and useful at first glance itself.  I really appreciate it!  Have a good weekend.  Cheers!
+Text: 
+Text: Owner/Founder
+Text: High Spirits Marketing, LLC
+Text: 
+Text: Yes the report has info to consider. It looks very good. Thank you to the team of CMI for all their efforts.
+Text: 
+Text: Chairman & Chief Scientific Officer
+Text: Vivia Biotech 
+Text: 
+Text: The report is very good, thanks! I’m very satisfied... thanks for your assistance.
+Text: 
+Text: Director General 
+Text: CEO, Agricultural Solutions For Africa (ASFA), Africa
+Text: 
+Text: I appreciate you. The information provided in the report is very useful to us and will help our company to make a better planning. 
+Text: 
+Text: VP of Sales
+Text: Arktect, Brazil
+Text: 
+Text: Thanks indeed for the prompt response. Your services are indeed helpful and I am happy for the run around time.
+Text: 
+Text: Strategy Consultant, Ernst & Young Consulting WLL
+Text: Bahrain
+Text: 
+Text: Thank you for the market insight report which seems very comprehensive. Your services are highly appreciated.
+Text: 
+Text: Finance Director
+Text: Centaur Robotics Limited
+Text: 
+Text: Thank you for the preview into your report. It looks impressive. Coherent Market Insights did a great job.   
+Text: 
+Text: OEM Manager EMEA
+Text: OLYMPUS EUROPA SE & CO. KG
+Text: 
+Text: I appreciate you for the fantastic service that you gave us. I am sure this will be very useful and help us in the near future as well.
+Text: 
+Text:  Manager - CDM
+Text: Kout food Group
+Text: 
+Text: Thank you for your kind support and services! I am convinced that the report contains interesting data. Your efforts and services are valued.
+Text: 
+Text: Marketing & Communication Manager
+Text: Kapsch srl.
+Text: 
+Text: Thanks for the services. It looks promising and am sure it will be of great help.
+Text: 
+Text: Account Manager Amprion, E.ON, RWE,
+Text: ABB Power Grids Germany AG
+Text: 
+Text: I did glance through CMI’s report, and can see how the information is very valuable.I appreciate a lot of effort has gone into compiling such a report.
+Text: 
+Text: Project Manager
+Text: Blade Energy Partners
+Text: 
+Text: Thanks for your effort and the brilliant service. Keep it up you guys! Cheers
+Text: 
+Text: Team Lead & Project Manager Operational Procurement (Satair)
+Text: Altran Deutschland S.A.S. & Co. KG 
+Text: 
+Text: Thank you for your services which I found very helpful. I would be interested to avail more of your services.
+Text: 
+Text: Regulatory Affairs Specialist, Lawyer
+Text:  Healthtech Finland
+Text: Contact Us
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us :
+Text: Secure Payment By :
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability and Reputation :
+Text: For Business Enquiry :
+Text: 
+
+ United Kingdom
+Text: 
+
+ United States
+Text: 
+
+ Australia
+Text: 
+
+ India
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Reliability and reputation
+Text: Secure Payments By:
+Text: 9001:2015
+Text: 27001:2022
+Text: Connect With Us
+
+
+Source 8: https://www.coherentmarketinsights.com/media-coverage
+Title: Media Coverage | Coherent Market Insights
+Text: the administration of NFL-101 before the quit attempt aims to break the link between cigarettes and the satisfa...
+Text: They are more expensive than truffles, and sometimes even more expensive than gold. "Himalaya...
+Text: Biking is a great way to get exercise, have fun, and explore your city or town. With the warmer weather arriving, man...
+Text: Laser Photonics (NASDAQ:LASE) started the year with plenty of activity. The company has been busy with a share buybac...
+Text: The sports industry has always enjoyed popularity among millions of people. In the age of free markets, this sector i...
+Text: The release of ChatGPT and GPT 3.5 (Generative Progressive Transformer-3.5) – which many believe will herald a ...
+Text: Investors are rushing to secure the limited, discounted tokens of one of the hottest crypto presales of 2023, a highl...
+Text: A classic biker jacket, trench coats and day dresses – leather has been a perennial source of inimitable style....
+Text: On January 5, the DGCCRF sent Synadiet  a letter &nbs...
+Text: Alternative lodging has come a long way. The days of a homeowner renting out a backyard shed for some extra cash have...
+Text: The document consists of a forecast and evaluation for the Hair Care Products marketplace on an internation...
+Text: The growing awareness about the need for a healthy lifestyle and the integral role of a good sleep-wake cycle has led...
+Text: a UK intellectual property investment group, has recently announced two major updates for investee companies Innovati...
+Text: As we look to the future, the squeeze on finances in the UK will no doubt dampen the market. However, in the plastic ...
+Text: There are choices aplenty at different price points, across product lines. We take stock of the genuine options, and ...
+Text: Contact Us
+Text: United States
+Text: United Kingdom
+Text: Australia
+Text: India
+Text: For Business Enquiry :
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Connect With Us :
+Text: Secure Payment By :
+Text: 9001:2015
+Text: 27001:2022
+Text: Reliability and Reputation :
+Text: For Business Enquiry :
+Text: 
+
+ United Kingdom
+Text: 
+
+ United States
+Text: 
+
+ Australia
+Text: 
+
+ India
+Text: Menu
+Text: Reader Club
+Text: Help
+Text: Sales Office (U.S.) :
+Text: Asia Pacific Intelligence Center (India) :
+Text: Reliability and reputation
+Text: Secure Payments By:
+Text: 9001:2015
+Text: 27001:2022
+Text: Connect With Us
+
+
+Source 9: https://www.coherentmarketinsights.com/news
